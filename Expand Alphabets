@@ -4,7 +4,7 @@ A string S is passed as input. S will contain multiple integer values followed b
 
 Input Format:
 The first line contains S.
-
+            
 Output Format:
 The first line contains the expanded string value.
 
